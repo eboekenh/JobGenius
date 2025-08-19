@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Editor/project files
+.vscode/
+.idea/
+
+# Environment / local secrets
+.env
+
+# Local database
+jobgenius.db
+
+# Distribution / packaging
+build/
+dist/
+
+# Misc
+*.pyc
+.DS_Store
